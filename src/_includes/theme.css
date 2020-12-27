@@ -18,7 +18,12 @@
     --toggle-color: #585757;
 }
 
+html {
+  height: 100%;
+}
+
 body {
+  height: 100%;
   font-family: 'B612 Mono', monospace;
   background-color: var(--bg-color);
   color: var(--font-color);
@@ -26,6 +31,12 @@ body {
   margin: 0 auto;
   font-size: calc(1rem + 0.25vh);
   max-width: 960px;
+}
+
+footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
 }
 
 h1 {

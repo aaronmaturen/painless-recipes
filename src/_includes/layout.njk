@@ -31,6 +31,9 @@
       <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
     {%- endfor -%}
     {% endif %}
+    <footer>
+      <a href="https://github.com/aaronmaturen/painless-recipes/blob/main/{{ page.inputPath }}">Edit this page on GitHub</a>
+    </footer>
     <script>{{ js | jsmin | safe }}</script>
     </body>
 </html>
