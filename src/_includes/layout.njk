@@ -1,0 +1,36 @@
+---
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>PAINLESS RECIPES{% if title %}—{{ title }}{% endif %}</title>
+{% set css %}{% include "theme.css" %}{% endset %}
+{% set js %}{% include "theme.js" %}{% endset %}
+		<style>{{ css | cssmin | safe }}</style>
+		<meta property="og:title" content="PAINLESS RECIPES{% if title %}—{{ title }}{% endif %}" />
+    </head>
+	<body{% if bodyclass %} class="{{ bodyclass }}"{% endif %}>
+    <nav>
+    <div>
+        <a href="/">painless.recipes</a>
+    </div>
+        {% include "components/theme-toggle.njk" %}
+    </nav>
+    {% if title %}<h1>{{ title }}</h1>{% endif %}
+    <p>
+    {% if date %}Published {{ date | dtFormat }}{% endif %}
+    {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>{% endif %}
+    {% if author.reddit %}<a href="https://reddit.com/u/{{ author.reddit }}">u/{{ author.reddit }}</a>{% endif %}
+    </p>
+    {{ content | safe }}
+    {% if tags %}
+      <strong>tags:</strong>
+    {%- for tag in tags -%}
+      <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
+    {%- endfor -%}
+    {% endif %}
+    <script>{{ js | jsmin | safe }}</script>
+    </body>
+</html>

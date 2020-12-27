@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>PAINLESS RECIPES</title>
+
+
+		<style>@import url(https://fonts.googleapis.com/css2?family=B612+Mono&display=swap);:root{--primary-color:#302AE6;--secondary-color:#536390;--font-color:#424242;--bg-color:#fff;--heading-color:#292922;--toggle-color:#eee}[data-theme=dark]{--primary-color:#9A97F3;--secondary-color:#818cab;--font-color:#e1e1ff;--bg-color:#161625;--heading-color:#818cab;--toggle-color:#585757}body{font-family:'B612 Mono',monospace;background-color:var(--bg-color);color:var(--font-color);max-width:90%;margin:0 auto;font-size:calc(1rem + .25vh);max-width:960px}h1{color:var(--heading-color);font-size:2rem;margin-bottom:1vh}p{font-size:1.1rem;line-height:1.6rem}a{color:var(--primary-color);text-decoration:none;border-bottom:3px solid transparent;font-weight:700}a:focus,a:hover{border-bottom:3px solid currentColor}section{max-width:68%;margin:0 auto}.post-meta{font-size:1rem;font-style:italic;display:block;margin-bottom:4vh;color:var(--secondary-color)}nav{display:flex;justify-content:flex-end;padding:20px 0}.emoji-toggle{position:relative;width:60px}.emoji-toggle .well{display:block;background:var(--toggle-color);height:20px;border-radius:10px;cursor:pointer}.emoji-toggle .toggle{opacity:0;border:0;outline:0;height:100%;width:100%;background:0 0;position:absolute;cursor:pointer;z-index:100}.emoji-toggle .toggle~.emoji:before{content:"\01F431";position:absolute;left:0;top:-15px;font-size:40px;transition:.2s}.emoji-toggle .toggle:checked~.emoji:before{left:100%;margin-left:-1em}.emoji-toggle .toggle~label{white-space:nowrap}.emoji-toggle .toggle~label:before{position:absolute;right:100%;margin-right:5px;top:0}.emoji-toggle .toggle~label:after{position:absolute;left:100%;margin-left:5px;top:0}.emoji-toggle .toggle~.emoji:before{content:'\1f31d'}.emoji-toggle .toggle:checked~.emoji:before{content:'\1f31a'}nav{display:grid;justify-items:center}@media (min-width:30rem){nav{grid-template-rows:none;grid-template-columns:1fr auto;justify-items:start}}</style>
+		<meta property="og:title" content="PAINLESS RECIPES" />
+    </head>
+	<body>
+    <nav>
+    <div>
+        painless.recipes
+    </div>
+        <div class="emoji-toggle">
+  <input type="checkbox" id="theme-checkbox" class="toggle">
+  <div class="emoji"></div>
+  <label for="theme-checkbox" class="well"></label>
+</div>
+    </nav>
+    <h1>Page header</h1>
+
+    <script>!function(t){const e=t.querySelector('.emoji-toggle input[type="checkbox"]');var a=localStorage.getItem("theme");a&&(t.documentElement.setAttribute("data-theme",a),"dark"===a&&(e.checked=!0)),e.addEventListener("change",function(e){e.target.checked?(t.documentElement.setAttribute("data-theme","dark"),localStorage.setItem("theme","dark")):(t.documentElement.setAttribute("data-theme","light"),localStorage.setItem("theme","light"))},!1)}(document);</script>
+    </body>
+</html>
