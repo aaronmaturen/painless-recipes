@@ -29,7 +29,7 @@ body {
   color: var(--font-color);
   max-width: 90%;
   margin: 0 auto;
-  padding: 15px;
+  padding: 0 15px;
   font-size: calc(1rem + 0.25vh);
   max-width: 960px;
   display: flex;
@@ -148,15 +148,8 @@ nav {
 
 nav {
   display: grid;
-  justify-items: center;
-  /* text-align: center; */
-}
-
-@media (min-width: 30rem) {
-  nav {
     grid-template-rows: none;
     grid-template-columns: 1fr auto;
     /* text-align: right; */
     justify-items: start;
-  }
 }
