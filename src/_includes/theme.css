@@ -29,6 +29,7 @@ body {
   color: var(--font-color);
   max-width: 90%;
   margin: 0 auto;
+  padding: 15px;
   font-size: calc(1rem + 0.25vh);
   max-width: 960px;
   display: flex;
