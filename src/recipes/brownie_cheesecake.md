@@ -10,7 +10,7 @@ date: 2020-12-27 15:45:00
 ---
 
 - brownie mix; ingredients
-- 16 oz cheesecake
+- 16 oz cream cheese
 - 3/4 cup sugar
 - 1 teaspoon vanilla
 - 1 cup chocolate chips
