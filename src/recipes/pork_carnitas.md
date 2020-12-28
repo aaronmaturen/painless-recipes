@@ -36,7 +36,7 @@ Optional:
 7. Remove the pot from the oven, and place it on a baking sheet. Using a fork and/or tongs shred teh meet into small pieces. 
 8. Ladle ~1 cup of the left over liquid in the pot over the shredded pork
 9. Put the shredded pork in the oven and broil for 8 minutes (or until desired crispyness) flipping half way through
-10. While the pork is crisping in the oven warm tortillas in a pan on the stove
+10. Optional: While the pork is crisping in the oven warm tortillas in a pan on the stove
 11. Optional: Serve pork on tortillas with cilantro, pickled red onion, radish or your favorite condiments 
 
 Yield: 5+ servings
