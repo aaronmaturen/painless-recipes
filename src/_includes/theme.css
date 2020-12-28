@@ -31,12 +31,13 @@ body {
   margin: 0 auto;
   font-size: calc(1rem + 0.25vh);
   max-width: 960px;
+  display: flex;
+  flex-direction: column;
 }
 
 footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
+  padding: 40px 0 10px;
+  flex-shrink: 0;
 }
 
 h1 {
@@ -68,6 +69,10 @@ ul {
 section {
   max-width: 68%;
   margin: 0 auto;
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 .post-meta {
