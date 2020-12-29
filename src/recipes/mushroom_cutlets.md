@@ -19,7 +19,7 @@ date: 2020-12-29 12:00:00
 
 1. Fry mushrooms in butter with onion and parsley.
 2. Moisten hard rolls and squeeze dry.
-3. Add eggs and breead to mushrooms.
+3. Add eggs and bread to mushrooms.
 4. Season to taste.
 5. Make smaall cutlets in the palm of your hand.
 6. Dip in bread crumbs and fry in butter.
