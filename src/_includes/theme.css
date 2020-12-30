@@ -88,18 +88,22 @@ nav {
   padding: 20px 0;
 }
 
-.emoji-toggle {
+.hidden {
+  display: none;
+}
+
+#emoji-toggle {
   position: relative;
   width: 60px;
 }
-.emoji-toggle .well {
+#emoji-toggle .well {
   display: block;
   background: var(--toggle-color);
   height: 20px;
   border-radius: 10px;
   cursor: pointer;
 }
-.emoji-toggle .toggle {
+#emoji-toggle .toggle {
   opacity: 0;
   border: 0;
   outline: none;
@@ -110,7 +114,7 @@ nav {
   cursor: pointer;
   z-index: 100;
 }
-.emoji-toggle .toggle ~ .emoji:before {
+#emoji-toggle .toggle ~ .emoji:before {
   content: "\01F431";
   position: absolute;
   left: 0;
@@ -118,29 +122,29 @@ nav {
   font-size: 40px;
   transition: 0.2s;
 }
-.emoji-toggle .toggle:checked ~ .emoji:before {
+#emoji-toggle .toggle:checked ~ .emoji:before {
   left: 100%;
   margin-left: -1em;
 }
-.emoji-toggle .toggle ~ label {
+#emoji-toggle .toggle ~ label {
   white-space: nowrap;
 }
-.emoji-toggle .toggle ~ label:before {
+#emoji-toggle .toggle ~ label:before {
   position: absolute;
   right: 100%;
   margin-right: 5px;
   top: 0;
 }
-.emoji-toggle .toggle ~ label:after {
+#emoji-toggle .toggle ~ label:after {
   position: absolute;
   left: 100%;
   margin-left: 5px;
   top: 0;
 }
-.emoji-toggle .toggle ~ .emoji:before {
+#emoji-toggle .toggle ~ .emoji:before {
   content: '\1f31d';
 }
-.emoji-toggle .toggle:checked ~ .emoji:before {
+#emoji-toggle .toggle:checked ~ .emoji:before {
   content: '\1f31a';
 }
 

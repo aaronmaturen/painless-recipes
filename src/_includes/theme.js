@@ -1,6 +1,6 @@
 ;(function (document) {
   const toggleSwitch = document.querySelector(
-    '.emoji-toggle input[type="checkbox"]'
+    '#emoji-toggle input[type="checkbox"]'
   );
   const currentTheme = localStorage.getItem("theme");
 
@@ -23,4 +23,5 @@
   }
 
   toggleSwitch.addEventListener("change", switchTheme, false);
+  document.getElementById("emoji-toggle").classList = "";
 })(document);
