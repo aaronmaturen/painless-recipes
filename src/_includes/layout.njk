@@ -20,6 +20,7 @@
     </nav>
     <main>
     {% if title %}<h1>{{ title }}</h1>{% endif %}
+    {% if subtitle %}<div role="doc-subtitle">{{ subtitle }}</div>{% endif %}
     <p>
     {% if date %}Published {{ date | dtFormat }}{% endif %}
     {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>{% endif %}
