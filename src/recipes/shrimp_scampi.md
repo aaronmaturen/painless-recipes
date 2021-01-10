@@ -1,6 +1,6 @@
 ---
 title: Shrimp Scampi
-date: 2020-01-10
+date: 2020-01-10 12:00:00
 tags:
   - seafood
   - shrimp
