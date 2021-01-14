@@ -1,5 +1,5 @@
 ---
-title: 
+title: Japanese Potato Curry
 date: 2021-01-13 12:00:00
 tags: 
   - vegetarian
