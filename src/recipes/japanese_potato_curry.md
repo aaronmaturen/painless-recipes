@@ -15,7 +15,7 @@ author:
 - 2 small onions finely chopped
 - 4 garlic cloves sliced
 - half a celery stalk finely chopped
-- 500ml of beef stock
+- 500ml of vegetable stock
 - 200ml of coconut milk
 - 4tsp of curry powder (I used mild madras as it is one of my favourites)
 - 2 tablespoons of plain flour
