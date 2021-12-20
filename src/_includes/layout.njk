@@ -5,16 +5,16 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>PAINLESS RECIPES{% if title %}—{{ title }}{% endif %}</title>
+		<title>RECIPES{% if title %}—{{ title }}{% endif %}</title>
 {% set css %}{% include "theme.css" %}{% endset %}
 {% set js %}{% include "theme.js" %}{% endset %}
 		<style>{{ css | cssmin | safe }}</style>
-		<meta property="og:title" content="PAINLESS RECIPES{% if title %}—{{ title }}{% endif %}" />
+		<meta property="og:title" content="RECIPES{% if title %}—{{ title }}{% endif %}" />
     </head>
 	<body{% if bodyclass %} class="{{ bodyclass }}"{% endif %}>
     <nav>
     <div>
-        <a href="/">painless.recipes</a>
+        <a href="/">recipes</a>
     </div>
         {% include "components/theme-toggle.njk" %}
     </nav>
