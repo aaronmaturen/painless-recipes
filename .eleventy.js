@@ -41,17 +41,11 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => a.data.title.localeCompare(b.data.title))
   );
 
-  eleventyConfig.addFilter("dump", (value) => {
-    console.log(require("util").inspect(value));
-    return value;
-  });
-
   eleventyConfig.addCollection("categories", function (collectionApi) {
     return collectionApi
       .getFilteredByGlob("src/recipes/*.md")
       .sort((a, b) => a.data.title.localeCompare(b.data.title))
       .reduce((acc, curr) => {
-        console.log("recipe", curr.data.category);
         if (!acc[curr.data.category]) acc[curr.data.category] = [];
         acc[curr.data.category].push(curr);
         return acc;

@@ -1,0 +1,17 @@
+---
+pagination:
+  data: collections.categories
+  size: 1
+  alias: selectedCategory
+permalink: /categories/{{ selectedCategory }}/
+layout: layout.njk
+eleventyExcludeFromCollections: true
+---
+
+<h1>Category “{{ selectedCategory }}”</h1>
+
+<ul>
+  {% for post in collections.categories[ selectedCategory ] %}
+  <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  {% endfor %}
+</ul>
