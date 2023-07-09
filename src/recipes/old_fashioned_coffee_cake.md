@@ -2,7 +2,7 @@
 title: Old Fashioned Coffee Cake
 tags:
   - breakfast
-date: 2021-01-03 12:00:00
+category: breakfast
 ---
 
 - 2 cups all purpose flour
@@ -24,8 +24,8 @@ date: 2021-01-03 12:00:00
 4. Add the baking powder and baking soda into the remaining flour mixture.
 5. Add the yogurt, egg and vanilla and mix until smooth.
 6. Scrape batter into greased 10-inch springform pan.
-7. Add the brown sugar, cinnamon and nuts (optional) to the reserved flour. 
-8. Sprinkle the crumbs over the batter pressing lightly. 
-9. Add halved maraschino cherries to the top of the crumb. 
-10. Bake at 350 degrees for 50-55 minutes, until a toothpick inserted into the center comes out clean. 
+7. Add the brown sugar, cinnamon and nuts (optional) to the reserved flour.
+8. Sprinkle the crumbs over the batter pressing lightly.
+9. Add halved maraschino cherries to the top of the crumb.
+10. Bake at 350 degrees for 50-55 minutes, until a toothpick inserted into the center comes out clean.
 11. Transfer to cooling rack for 2 hours.

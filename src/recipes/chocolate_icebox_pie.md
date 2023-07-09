@@ -1,10 +1,8 @@
 ---
 title: Chocolate Icebox Pie
-author:
-  reddit: TastesSoMuch
-date: 2021-01-04 12:00:00
+category: desert
 tags:
-  - chocolate 
+  - chocolate
   - pie
   - desert
 ---

@@ -1,11 +1,9 @@
 ---
 title: Mushroom Cutlets
-tags: 
+tags:
   - polish
   - mushroom
-author:  
-  twitter: atmaturen
-date: 2020-12-29 12:00:00
+category: main
 ---
 
 - 1 lb fresh mushrooms, finely chopped
@@ -23,4 +21,3 @@ date: 2020-12-29 12:00:00
 4. Season to taste.
 5. Make small cutlets in the palm of your hand.
 6. Dip in bread crumbs and fry in butter.
-

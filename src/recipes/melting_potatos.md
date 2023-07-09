@@ -1,7 +1,7 @@
 ---
 title: Melting Potatoes
-date: 2021-01-24
-tags: 
+category: side
+tags:
   - sides
   - potatoes
 ---

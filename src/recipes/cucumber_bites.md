@@ -3,8 +3,10 @@ title: Cucumber Bites
 tags:
   - cucumber
   - appetizer
-  - ranch 
-date: 2021-01-01 12:00:00
+  - ranch
+  - veggie
+  - potluck
+category: appetizer
 ---
 
 - 2 cucumbers
@@ -14,8 +16,8 @@ date: 2021-01-01 12:00:00
 - 1/4 teaspoon salt
 - grape tomatoes
 
-1. Peel and slice cucumbers slightly under an inch thick. 
-2. Scoop out the center of each cucumber. 
-3. Mix cream cheese, mayonnaise, salt, and ranch mix and place in a piping bag. 
-4. Place a dollop of the mix on each cumcumber. 
-5. Place half a tomato on each dollop. 
+1. Peel and slice cucumbers slightly under an inch thick.
+2. Scoop out the center of each cucumber.
+3. Mix cream cheese, mayonnaise, salt, and ranch mix and place in a piping bag.
+4. Place a dollop of the mix on each cumcumber.
+5. Place half a tomato on each dollop.

@@ -1,13 +1,12 @@
 ---
 title: Caramel Bourbon Bread Pudding
-date: 2021-01-22
-author:
-  reddit: mug_head
+category: desert
 tags:
   - dessert
 ---
 
 ## Bread Pudding
+
 - 2 tbsp unsalted butter, room temperature
 - 2 (14 oz) loaves of day old brioche, 1” cubes
 - 1/2 cup chocolate chips
@@ -27,6 +26,7 @@ tags:
 10. Add the Bourbon Caramel Sauce before serving.
 
 ## Custard
+
 - 1 cup whole milk
 - 2 eggs
 - 1/4 cup sugar
@@ -36,9 +36,9 @@ tags:
 1. Mix all the ingredients together.
 
 ## Bourbon Caramel Sauce
+
 - 1 (13.4 oz) can dulce de leche
 - 1/2 cup unsalted butter
 - 1/4 cup bourbon
 
 1. Mix all the ingredients together.
-

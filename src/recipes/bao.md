@@ -1,18 +1,19 @@
 ---
 title: Bao
+category: main
 tags:
-  - dumpkings
+  - dumplings
   - chinese
-date: 2021-01-02 12:00:00
 ---
 
 ## Dough
+
 - 4 cups flour
 - 3/4 teaspoon yeast
 - 1 cup water
 
 1. Mix flour and yeast in a mixing bowl.
-2. Add water and kneed until a solid dough ball forms. 
+2. Add water and kneed until a solid dough ball forms.
 3. Adjust flour and water until dough is workable and not too sticky.
 4. Let dough rise covered for 2 hours.
 5. Once the dough has risen, dust the countertop with flour and into a long rope shape.
@@ -40,4 +41,3 @@ date: 2021-01-02 12:00:00
 
 1. Cook half the ground chicken (or pork) in a pan, add it to the raw meat.
 2. Mix the meat with the shredded cabbage, minced carrot, green onions, beaten egg, ground ginger, olive oil, chicken bouillon powder, oyster sauce, cooking wine, salt and pepper.
-

@@ -1,12 +1,10 @@
 ---
 title: Brownie Cheesecake
-tags: 
+category: desert
+tags:
   - chocolate
   - desert
   - cheesecake
-author:  
-  twitter: atmaturen
-date: 2020-12-27 15:45:00
 ---
 
 - brownie mix; ingredients
@@ -17,6 +15,6 @@ date: 2020-12-27 15:45:00
 - 8oz whipped cream
 
 1. Prepare brownie mix; bake in a springform pan.
-2. Beat cream cheese and sugar. 
+2. Beat cream cheese and sugar.
 3. Add in Vanilla, Whipped Cream and Chocolate Chips
 4. Spread mixture over brownies; refrigerate for at least 4 hours

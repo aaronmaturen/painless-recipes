@@ -1,7 +1,6 @@
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
-const english = new Intl.DateTimeFormat("en");
-const fs = require('fs');
+const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
@@ -21,10 +20,6 @@ module.exports = function (eleventyConfig) {
     return minified.code;
   });
 
-  eleventyConfig.addFilter("dtFormat", function (date) {
-    return english.format(date);
-  });
-
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function (err, bs) {
@@ -38,6 +33,29 @@ module.exports = function (eleventyConfig) {
         });
       },
     },
+  });
+
+  eleventyConfig.addCollection("recipes", (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob("src/recipes/*.md")
+      .sort((a, b) => a.data.title.localeCompare(b.data.title))
+  );
+
+  eleventyConfig.addFilter("dump", (value) => {
+    console.log(require("util").inspect(value));
+    return value;
+  });
+
+  eleventyConfig.addCollection("categories", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("src/recipes/*.md")
+      .sort((a, b) => a.data.title.localeCompare(b.data.title))
+      .reduce((acc, curr) => {
+        console.log("recipe", curr.data.category);
+        if (!acc[curr.data.category]) acc[curr.data.category] = [];
+        acc[curr.data.category].push(curr);
+        return acc;
+      }, {});
   });
 
   return {

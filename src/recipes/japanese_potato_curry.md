@@ -1,11 +1,9 @@
 ---
 title: Japanese Potato Curry
-date: 2021-01-13 12:00:00
-tags: 
+category: main
+tags:
   - vegetarian
   - japanese
-author:
-  reddit: mienczaczek
 ---
 
 ## Ingredients

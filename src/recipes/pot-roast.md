@@ -1,17 +1,18 @@
 ---
 title: Pot Roast
 tags:
-  - Roast
-  - Beef
-  - Dutch Oven
-date: 2023-02-07 12:00:00
+  - roast
+  - beef
+  - dutch oven
+category: main
 ---
 
 ## Roast
+
 - 3-4 lb beef chuck roast
 - 2 teaspoon kosher salt
 - 1 teaspoon black pepper
-- 3 tablespoon olive oil 
+- 3 tablespoon olive oil
 - 1 package of pearl onions
 - 6-8 large carrots peeled and cut into 2 inch pieces
 - 4 fresh garlic cloves minced

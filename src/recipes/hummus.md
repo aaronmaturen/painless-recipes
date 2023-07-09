@@ -1,11 +1,9 @@
 ---
 title: Hummus
-date: 2021-01-18 12:00:00
+category: appetizer
 tags:
   - dips
   - appetizers
-author:
-  twitter: atmaturen
 ---
 
 - 2/3 cups dry chickpeas
@@ -16,7 +14,7 @@ author:
 - 1/2 cup tahini
 - 1 tablespoon cumin (optional)
 
-1. Soak chickpeas over with a sprinkle of baking soda.
+1. Soak chickpeas overnight with a sprinkle of baking soda.
 2. The next day, rinse the chickpeas and place into a medium pot with fresh water and baking soda.
 3. Bring to a boil.
 4. Lower the heat to a simmer cook until the chickpeas are very soft.
@@ -25,6 +23,6 @@ author:
 7. Add the Garlic, salt and lemon juice to the processor
 8. Process everything, adding the reserved liquid as needed
 9. Add in the tahini and continue to process until smoothed.
-10. Add in the cumin, if using. 
+10. Add in the cumin, if using.
 11. Adjust seasoning as needed.
 12. Serve topped with pine nuts or olive oil (if desired)

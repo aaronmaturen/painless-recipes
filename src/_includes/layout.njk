@@ -14,18 +14,14 @@
 	<body{% if bodyclass %} class="{{ bodyclass }}"{% endif %}>
     <nav>
     <div>
-        <a href="/">recipes</a>
+        <a href="/">painless recipes</a>
     </div>
         {% include "components/theme-toggle.njk" %}
     </nav>
     <main>
     {% if title %}<h1>{{ title }}</h1>{% endif %}
     {% if subtitle %}<div role="doc-subtitle">{{ subtitle }}</div>{% endif %}
-    <p>
-    {% if date %}Published {{ date | dtFormat }}{% endif %}
-    {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>{% endif %}
-    {% if author.reddit %}<a href="https://reddit.com/u/{{ author.reddit }}">u/{{ author.reddit }}</a>{% endif %}
-    </p>
+    {% if category %}<a id="category" href="/categories/{{ category }}">{{category}}</a>{% endif %}
     {{ content | safe }}
     {% if tags %}
       <strong>tags:</strong>
@@ -35,7 +31,15 @@
     {% endif %}
     </main>
     <footer>
-      <a href="https://github.com/aaronmaturen/painless-recipes/blob/main/{{ page.inputPath }}">Edit this page on GitHub</a>
+      <div>
+      <div>
+        <a href="https://github.com/aaronmaturen/painless-recipes/blob/main/{{ page.inputPath }}">edit this page on GitHub</a>
+      </div>
+      <div>
+        <a href="/about">about</a>
+      </div>
+      </div>
+
     </footer>
     <script>{{ js | jsmin | safe }}</script>
     </body>

@@ -1,12 +1,10 @@
 ---
 title: Sour Cream Apple Pie
-tags: 
+tags:
   - apple
   - desert
   - pie
-author:
-  reddit: DeeBeeKay27
-date: 2020-12-31 12:00:00
+category: desert
 ---
 
 ## Filling
@@ -26,7 +24,7 @@ date: 2020-12-31 12:00:00
 5. Bake in 400 to 425 degree oven for 15 minutes
 6. Reduce oven temperature to 350 degree oven and bake for additional 30 minutes.
 
-##  Topping
+## Topping
 
 - 1/3 cup sugar
 - 1 tsp cinnamon

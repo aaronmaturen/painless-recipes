@@ -1,6 +1,6 @@
 ---
 title: Butter Cookies
-date: 2021-01-08 12:00:00
+category: desert
 tags:
   - cookies
   - desert
@@ -15,6 +15,6 @@ tags:
 
 1. Cream butter and sugar.
 2. Sift in flour, salt and baking soda.
-3. Add in vanilla. 
+3. Add in vanilla.
 4. Roll into small balls.
 5. Bake in oven at 325 degrees for 15-20 minutes.

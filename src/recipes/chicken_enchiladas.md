@@ -1,6 +1,6 @@
 ---
 title: Chicken Enchiladas
-date: 2021-01-09 12:00:00
+category: main
 tags:
   - chicken
   - mexican
@@ -35,7 +35,7 @@ tags:
 - 8 large flour tortillas
 - 3 cups shredded cheese
 
-1. Saute onions, chicken and green chiles. 
+1. Saute onions, chicken and green chiles.
 2. Add in rinsed and drained bleans.
 3. For each tortilla, fill with sauce, chicken mixture in cheese, roll and place into 9x13 baking dish.
 4. Top with any remaining sauce and cheese.

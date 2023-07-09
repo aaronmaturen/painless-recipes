@@ -7,11 +7,11 @@ permalink: /tags/{{ tag }}/
 layout: layout.njk
 eleventyExcludeFromCollections: true
 ---
+
 <h1>Tagged “{{ tag }}”</h1>
 
 <ul>
-{% set taglist = collections[ tag ] %}
-{% for post in taglist | reverse %}
+  {% set taglist = collections[ tag ] %} {% for post in taglist %}
   <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-{% endfor %}
+  {% endfor %}
 </ul>

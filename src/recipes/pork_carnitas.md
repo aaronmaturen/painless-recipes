@@ -1,13 +1,11 @@
 ---
 title: Pork Carnitas
-tags: 
-  - Pork
-  - Carnitas
-  - Tacos
-  - Mexican
-author:
-  twitter: dylanswartz
-date: 2020-12-27 18:00:00
+tags:
+  - pork
+  - carnitas
+  - tacos
+  - mexican
+category: main
 ---
 
 - 1 whole pork butt/pork shoulder
@@ -21,7 +19,8 @@ date: 2020-12-27 18:00:00
 - 2 tsp dried oregano
 - 1 tbsp ground cumin
 
-Optional: 
+Optional:
+
 - 1 package corn tortillas
 - Fresh cilantro
 - Thinly sliced radish
@@ -33,10 +32,10 @@ Optional:
 4. Squeeze the oranges and limes into pot and place the spent halfs into the pot around the sides of the pork
 5. Put the chopped garlic and onion on top of the pork
 6. Cover the pot and bake for 3.5 hours
-7. Remove the pot from the oven, and place it on a baking sheet. Using a fork and/or tongs shred teh meet into small pieces. 
+7. Remove the pot from the oven, and place it on a baking sheet. Using a fork and/or tongs shred teh meet into small pieces.
 8. Ladle ~1 cup of the left over liquid in the pot over the shredded pork
 9. Put the shredded pork in the oven and broil for 8 minutes (or until desired crispyness) flipping half way through
 10. Optional: While the pork is crisping in the oven warm tortillas in a pan on the stove
-11. Optional: Serve pork on tortillas with cilantro, pickled red onion, radish or your favorite condiments 
+11. Optional: Serve pork on tortillas with cilantro, pickled red onion, radish or your favorite condiments
 
 Yield: 5+ servings

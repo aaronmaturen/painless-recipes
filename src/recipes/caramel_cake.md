@@ -1,15 +1,14 @@
 ---
 title: Caramel Cake
-tags: 
+tags:
   - caramel
   - cake
   - desert
-author:
-  reddit: nerdynshy
-date: 2020-12-27 11:00:00
+category: desert
 ---
 
 ## Cake
+
 - 2 cups cake flour
 - 1/2 cup of butter
 - 2 eggs
@@ -30,6 +29,7 @@ date: 2020-12-27 11:00:00
 8. Cover with the caramel icing.
 
 ## Icing
+
 - 1 1/2 cup of brown sugar
 - 1 1/2 cup of sugar
 - 1 1/2 cup of milk

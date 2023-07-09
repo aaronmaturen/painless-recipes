@@ -1,7 +1,7 @@
 ---
 title: Original Barbecue Sauce
-date: 2021-01-23
-tags: 
+category: sauce
+tags:
   - sauce
   - barbecue
 ---
@@ -16,6 +16,6 @@ tags:
 - 3/4 teaspoon salt
 - 3/4 teaspoon pepper
 
-1. Mix all ingredients in a saucepan. 
-2. Heat until just about boiling. 
+1. Mix all ingredients in a saucepan.
+2. Heat until just about boiling.
 3. Let cool completely.

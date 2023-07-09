@@ -1,11 +1,9 @@
 ---
 title: Shrimp and Crab Gumbo
-tags: 
+tags:
   - shrimp
   - crab
-author:
-  reddit: jo_phine
-date: 2020-12-27 13:00:00
+category: main
 ---
 
 - 3/4 cup of oil

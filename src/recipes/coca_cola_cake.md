@@ -1,12 +1,10 @@
 ---
 title: Double Chocolate Coca Cola Cake
-tags: 
+tags:
   - coke
   - desert
   - cake
-author:
-  reddit: smelly_leaf
-date: 2020-12-28 12:00:00
+category: desert
 ---
 
 ## Cake
@@ -22,7 +20,7 @@ date: 2020-12-28 12:00:00
 - 1 teaspoon baking soda
 - 1 teaspoon vanilla
 
-1. In a saucepan, mix coca cola, oil, butter, and cocoa and bring to a boil. 
+1. In a saucepan, mix coca cola, oil, butter, and cocoa and bring to a boil.
 2. In another bowl, combine the sugar, flour and salt.
 3. Pour the boiling CCola mixture over the flour mixture and beaat well.
 4. Add the eggs, buttermilk, soda and vanilla and beat well.
