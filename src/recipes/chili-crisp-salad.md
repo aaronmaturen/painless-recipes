@@ -1,9 +1,9 @@
 ---
-title: Dumpling Tomato Salad With Chile Crisp Vinaigrette
+title: Chile Crisp Salad
 tags:
   - salad
   - chile crisp
-category: main
+category: salad
 ---
 
 ## Salad
