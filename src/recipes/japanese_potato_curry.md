@@ -6,8 +6,6 @@ tags:
   - japanese
 ---
 
-## Ingredients
-
 - 2 medium carrots, diced
 - 2 large waxy type potatoes (this type melts in the mouth)
 - 2 small onions finely chopped
@@ -21,8 +19,6 @@ tags:
 - 1 teaspoon of honey
 - 1 tablespoon of mirin
 - rapeseed oil for frying
-
-## Instructions
 
 1. Heat 2tbsp of rapeseed oil in a frying pan.
 1. Sweat the onions and celery on medium heat for 5 minutes.

@@ -3,6 +3,7 @@ title: Chile Crisp Fettuccine Alfredo
 category: main
 tags:
   - pasta
+  - chili crisp
 ---
 
 - Salt
