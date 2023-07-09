@@ -24,11 +24,11 @@ category: breakfast
 - 10 large eggs
 
 1. Sauté onions over medium heat until translucent.
-2. Add the bell peppers and jalapeño and cook just until softened.
-3. Stir in the garlic and tomato paste and sauté for another 2 minutes.
-4. Slowly pour in the tomatoes.
-5. Stir in the bay leaf, sugar, salt, paprika, cumin, pepper, and caraway.
-6. Let the mixture simmer for 20 minutes.
-7. Layer the Swiss chard leaves on top.
-8. Crack the eggs into the tomato mixture.
-9. Cover and simmer for approximately 10 minutes or until the whites are set.
+1. Add the bell peppers and jalapeño and cook just until softened.
+1. Stir in the garlic and tomato paste and sauté for another 2 minutes.
+1. Slowly pour in the tomatoes.
+1. Stir in the bay leaf, sugar, salt, paprika, cumin, pepper, and caraway.
+1. Let the mixture simmer for 20 minutes.
+1. Layer the Swiss chard leaves on top.
+1. Crack the eggs into the tomato mixture.
+1. Cover and simmer for approximately 10 minutes or until the whites are set.

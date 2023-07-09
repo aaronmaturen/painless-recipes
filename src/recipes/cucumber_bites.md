@@ -17,7 +17,7 @@ category: appetizer
 - grape tomatoes
 
 1. Peel and slice cucumbers slightly under an inch thick.
-2. Scoop out the center of each cucumber.
-3. Mix cream cheese, mayonnaise, salt, and ranch mix and place in a piping bag.
-4. Place a dollop of the mix on each cumcumber.
-5. Place half a tomato on each dollop.
+1. Scoop out the center of each cucumber.
+1. Mix cream cheese, mayonnaise, salt, and ranch mix and place in a piping bag.
+1. Place a dollop of the mix on each cumcumber.
+1. Place half a tomato on each dollop.

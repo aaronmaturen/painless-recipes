@@ -15,7 +15,7 @@ tags:
 - 1 teaspoon vanilla extract
 
 1. Mix the butter, milk, cocoa powder, sugar and vanilla in a large pot and bring to a boil.
-2. Boil for 1 minute.
-3. Add the oats and peanut butter, mix until well until everything is combined evenly.
-4. Scoop out spoonfuls of the mixture onto parchment lined baking sheets.
-5. Let the cookies cool 25-30 minutes.
+1. Boil for 1 minute.
+1. Add the oats and peanut butter, mix until well until everything is combined evenly.
+1. Scoop out spoonfuls of the mixture onto parchment lined baking sheets.
+1. Let the cookies cool 25-30 minutes.

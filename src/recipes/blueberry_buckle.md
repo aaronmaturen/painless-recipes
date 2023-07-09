@@ -18,11 +18,11 @@ tags:
 - 1 1/2 cups fresh blueberries
 
 1. Cream sugar, butter, egg & lemon zest.
-2. In a separate bowl combine flour, baking powder, and salt.
-3. Alternate adding milk and the dry ingredients to the sugar, mix well.
-4. Dust blueberries with flour and add them to the batter.
-5. Sprinkle topping over batter.
-6. Bake in an 8x8 pan at 350 for 40-45 minutes.
+1. In a separate bowl combine flour, baking powder, and salt.
+1. Alternate adding milk and the dry ingredients to the sugar, mix well.
+1. Dust blueberries with flour and add them to the batter.
+1. Sprinkle topping over batter.
+1. Bake in an 8x8 pan at 350 for 40-45 minutes.
 
 ## Topping
 

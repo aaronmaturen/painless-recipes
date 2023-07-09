@@ -14,7 +14,7 @@ tags:
 - pinch of salt
 
 1. Cream butter and sugar.
-2. Sift in flour, salt and baking soda.
-3. Add in vanilla.
-4. Roll into small balls.
-5. Bake in oven at 325 degrees for 15-20 minutes.
+1. Sift in flour, salt and baking soda.
+1. Add in vanilla.
+1. Roll into small balls.
+1. Bake in oven at 325 degrees for 15-20 minutes.

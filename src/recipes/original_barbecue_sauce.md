@@ -17,5 +17,5 @@ tags:
 - 3/4 teaspoon pepper
 
 1. Mix all ingredients in a saucepan.
-2. Heat until just about boiling.
-3. Let cool completely.
+1. Heat until just about boiling.
+1. Let cool completely.

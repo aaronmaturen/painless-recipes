@@ -15,15 +15,15 @@ tags:
 - 1 tbsp cinnamon
 
 1. Cut up the bread into 1" cubes
-2. Grease a 12" Cast Iron skillet with butter
-3. Place the bread in the skillet with the chocolate chips, cranberried, and cinnamon
-4. Pour the custard mixture over the bread in the skillet
-5. Let it rest for 30 minutes to soak up the custard
-6. Top with Pecans
-7. Cook for 25 minutes covered at 350.
-8. Remove the lid
-9. Cook for an additional 15-25 minutes at 400.
-10. Add the Bourbon Caramel Sauce before serving.
+1. Grease a 12" Cast Iron skillet with butter
+1. Place the bread in the skillet with the chocolate chips, cranberried, and cinnamon
+1. Pour the custard mixture over the bread in the skillet
+1. Let it rest for 30 minutes to soak up the custard
+1. Top with Pecans
+1. Cook for 25 minutes covered at 1.
+1. Remove the lid
+1. Cook for an additional 15-25 minutes at 1.
+1. Add the Bourbon Caramel Sauce before serving.
 
 ## Custard
 
@@ -37,7 +37,7 @@ tags:
 
 ## Bourbon Caramel Sauce
 
-- 1 (13.4 oz) can dulce de leche
+- 1 (1.4 oz) can dulce de leche
 - 1/2 cup unsalted butter
 - 1/4 cup bourbon
 

@@ -18,11 +18,11 @@ tags:
 - salt
 
 1. Heat oil in saucepan, add flour and whisk constantly.
-2. Mix in chili powder, cumin, garlic powder, and oregeno.
-3. Whisk for 1 minute.
-4. Mix in stock until well combined.
-5. Simmer on medium-low for 10-15 mnutes.
-6. Add Salt to taste.
+1. Mix in chili powder, cumin, garlic powder, and oregeno.
+1. Whisk for 1 minute.
+1. Mix in stock until well combined.
+1. Simmer on medium-low for 10-15 mnutes.
+1. Add Salt to taste.
 
 ## Enchiladas
 
@@ -36,7 +36,7 @@ tags:
 - 3 cups shredded cheese
 
 1. Saute onions, chicken and green chiles.
-2. Add in rinsed and drained bleans.
-3. For each tortilla, fill with sauce, chicken mixture in cheese, roll and place into 9x13 baking dish.
-4. Top with any remaining sauce and cheese.
-5. Bake at 350 uncovered for 20 minutes.
+1. Add in rinsed and drained bleans.
+1. For each tortilla, fill with sauce, chicken mixture in cheese, roll and place into 9x13 baking dish.
+1. Top with any remaining sauce and cheese.
+1. Bake at 350 uncovered for 20 minutes.

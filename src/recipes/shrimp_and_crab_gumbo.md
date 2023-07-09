@@ -17,8 +17,8 @@ category: main
 - 1/2 cup chopped green onion tops
 
 1. Make a dark brown roux with oil and flour; add bell pepper, onion and celery and cook until onions are transparent.
-2. Gradually add the water and continue cooking for at least one hour.
-3. Adjust seasoning to taste; add shrimp, crab, parsley and green onion tops and simmer for 10 minutes.
-4. Serve over cooked rice in soup bowls.
+1. Gradually add the water and continue cooking for at least one hour.
+1. Adjust seasoning to taste; add shrimp, crab, parsley and green onion tops and simmer for 10 minutes.
+1. Serve over cooked rice in soup bowls.
 
 Yield: 6 to 8 servings

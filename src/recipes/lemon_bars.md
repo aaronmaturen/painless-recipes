@@ -13,7 +13,7 @@ category: desert
 - 1/2 cup powdered sugar
 
 1. Mix all ingredients and press into ungreased 9x12 pan.
-2. Bake 20 minutes at 350 degrees.
+1. Bake 20 minutes at 350 degrees.
 
 ## Filling
 
@@ -25,5 +25,5 @@ category: desert
 - Powdered sugar
 
 1. Mix all ingredients and pour onto baked crust.
-2. Bake 25 minutes at 350 degrees.
-3. Sprinkle with powdered sugar while still warm.
+1. Bake 25 minutes at 350 degrees.
+1. Sprinkle with powdered sugar while still warm.

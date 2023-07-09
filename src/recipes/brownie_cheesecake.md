@@ -15,6 +15,6 @@ tags:
 - 8oz whipped cream
 
 1. Prepare brownie mix; bake in a springform pan.
-2. Beat cream cheese and sugar.
-3. Add in Vanilla, Whipped Cream and Chocolate Chips
-4. Spread mixture over brownies; refrigerate for at least 4 hours
+1. Beat cream cheese and sugar.
+1. Add in Vanilla, Whipped Cream and Chocolate Chips
+1. Spread mixture over brownies; refrigerate for at least 4 hours

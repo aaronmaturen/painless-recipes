@@ -10,7 +10,7 @@ tags:
 - 1 lime, juiced
 
 1.  Add watermelon, strawberries, lime juice to a blender or food processor.
-2.  Blend until smooth and liquefied, about 5-7 seconds.
-3.  Pour mixture into ice pop molds.
-4.  Freeze for at least 3 hours.
-5.  Thaw for several minutes for easy unmolding. Serve and enjoy!
+1.  Blend until smooth and liquefied, about 5-7 seconds.
+1.  Pour mixture into ice pop molds.
+1.  Freeze for at least 3 hours.
+1.  Thaw for several minutes for easy unmolding. Serve and enjoy!

@@ -16,10 +16,10 @@ tags:
 - 1 cup vegetable broth
 
 1. Peel and slice poatoes 1/4 inch thick.
-2. Combine sliced potatoes, melted butter, thyme, dill, salt, pepper, and minced garlic in a large mixing bowl.
-3. Transfer to a baking sheet in a single layer.
-4. Bake at 500 degrees for 15 minutes.
-5. Flip the potatoes and bake for another 15 minutes.
-6. Flip the potatoes again.
-7. Pour in the broth.
-8. Bake for another 15 minutes.
+1. Combine sliced potatoes, melted butter, thyme, dill, salt, pepper, and minced garlic in a large mixing bowl.
+1. Transfer to a baking sheet in a single layer.
+1. Bake at 500 degrees for 15 minutes.
+1. Flip the potatoes and bake for another 15 minutes.
+1. Flip the potatoes again.
+1. Pour in the broth.
+1. Bake for another 15 minutes.
